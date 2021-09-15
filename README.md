@@ -1,3 +1,3 @@
-# House-Price-Prediction-Challenge-
-RMSLE score: 0.28070
+# House-Price-Prediction-Challenge
+
 
